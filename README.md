@@ -1,5 +1,1 @@
-"# Bootstrap_template" 
-"# Bootstrap_template" 
-"# Bootstrap_template" 
-"# Bootstrap_template" 
-"# Bootstrap_template" 
+BOOTSTRAP TEMPLATE BASE
